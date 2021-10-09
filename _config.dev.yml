@@ -7,7 +7,7 @@ analytics:
 
 comments:
   disqus:
-    shortname            : "mmistakes-dev"
+    shortname            : "ekimb"
 
 sass:
   style: expanded

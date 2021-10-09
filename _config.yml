@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Second-year PhD student of Computer Science at Massachusetts Institute of Technology (MIT)."
   location         : "Cambridge, MA / Istanbul, TR"
-  employer         : "Massachusetts Institute of Technology (MIT)"
+  employer         : ""
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Ekim+Baris"
   googlescholar    : "https://scholar.google.com/citations?user=898toBcAAAAJ&hl=en"
   email            : "baris@mit.edu"
@@ -108,7 +108,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           : "gunesaynasinda"
+  tumblr           : ""
   twitter          : "gunesaynasinda"
   vine             :
   weibo            :
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - "jekyll-github-metadata"
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
